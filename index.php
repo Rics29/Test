@@ -9,7 +9,7 @@
     <meta name="description" content="">
     
     
-    <title>Feminine</title>
+    <title>SHUBHI</title>
     <link rel="stylesheet" href="styles/breastCancerTool.css">
     <link rel="stylesheet" href="styles/pcosTool.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -957,14 +957,14 @@
             <div class="row social-row">
                 <div class="social-list align-right pb-2">
                     <div class="soc-item">
-                        <a href="https://github.com/priyanshisharma/Feminine" target="_blank">
+                        <a href="https://github.com/Shubhisingh921/Test" target="_blank">
                             <span class="mbr-iconfont mbr-iconfont-social socicon-github socicon"></span>
                         </a>
                     </div>
                 </div>
             </div>
             <div class="row row-copirayt">
-                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">Made by Team HackDivas&nbsp;</p>
+                <p class="mbr-text mb-0 mbr-fonts-style mbr-white align-center display-7">Made by Team CodeBusters&nbsp;</p>
             </div>
         </div>
     </div>
