@@ -1,6 +1,6 @@
-# Feminine | Submission of Team HackDivas
+# SAHELI | A one stop platform for all women health services
 <b>Members:
-Anjali Patle, Sakshi Bhandarkar and Priyanshi Sharma</b>
+Richa Agrawal, Shubhi Singh, Prarthana Agarwal</b>
 
 <p align="center">
     <img src="./assets/images/feminine.png" alt="Logo" width="200">
@@ -171,10 +171,10 @@ The model we've made has the following attributes:
 
 
 
-## Team HackDivas
+## Team CODE
 
-* Priyanshi Sharma
-* Anjali Patle
-* Sakshi Bhandarkar
+* Richa Agrawal
+* Shubhi Singh
+* Prarthana Agarwal
 
 ### More power to women!

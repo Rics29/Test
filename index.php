@@ -9,7 +9,7 @@
     <meta name="description" content="">
     
     
-    <title>SHUBHI</title>
+    <title>SAHELI</title>
     <link rel="stylesheet" href="styles/breastCancerTool.css">
     <link rel="stylesheet" href="styles/pcosTool.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -85,9 +85,9 @@
         <div class="row justify-content-end">
             <div class="col-12 col-lg-5">
                 <h1 class="mbr-section-title mbr-fonts-style mb-3 display-1">
-                    <strong style="font-family: 'Dancing Script', cursive;">Feminine</strong>
+                    <strong style="font-family: 'Dancing Script', cursive; color:#f1768a">Saheli</strong>
                 </h1>
-                <p class="mbr-text mbr-fonts-style display-7">
+                <p class="mbr-text mbr-fonts-style display-7" style="color:black">
                     Our one-stop solution for your protection.
                 </p>
                 <div class="mbr-section-btn mt-3">
@@ -119,9 +119,8 @@
                         its treatment and management.
                     </p>
                     <br/>
-                    <p class="mbr-text mbr-fonts-style display-7">
-                        We are fighting for those who are disadvantaged by discrimination rooted in sociocultural factors, 
-                        building a sense of trust and breaking the stigma around femininity 
+                    <p class="mbr-text mbr-fonts-style display-7"> We aim to fill the knowledge gap and thus enable women to better take care of themselves.
+                        
                     </p>
                 </div>
             </div>
@@ -221,8 +220,8 @@
                     We currently provide an array of tools powered by artifical intelligence.
                 </p>
                 <ul class="card-text mbr-fonts-style display-7">
-                    <li>87,090 women out of the 1,62,468 Breast Cancer Cases in India died in 2018.</li>
-                    <li>60,078 women out of the 96,922 Cervical cancer Cases in India died in 2018.</li>
+                    <li>43,000 women out of the 2,90,560 Breast Cancer Cases in India died in 2021.</li>
+                    <li>3,11,000 women out of the 5,70,000 Cervical cancer Cases in India died in 2021.</li>
                     <li>Every 1 in 5 women in India suffers from PCOS, and is causeative agent to 90% of anovulation cases.</li>
                 </ul>
                 <p class="card-text mbr-fonts-style display-7">
@@ -957,7 +956,7 @@
             <div class="row social-row">
                 <div class="social-list align-right pb-2">
                     <div class="soc-item">
-                        <a href="https://github.com/Shubhisingh921/Test" target="_blank">
+                        <a href="https://github.com/Rics29/Test" target="_blank">
                             <span class="mbr-iconfont mbr-iconfont-social socicon-github socicon"></span>
                         </a>
                     </div>

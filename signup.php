@@ -26,7 +26,7 @@
  </head>
  <?php
   
-  session_start();
+  
   if(isset($_POST['doctor'])){
     
     require_once('./config.php');
